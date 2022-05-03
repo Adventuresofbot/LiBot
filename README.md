@@ -3,6 +3,10 @@
 
 **LiBot** is a bot for Lichess. Strongly inspired by [ShailChoksi/lichess-bot](https://github.com/ShailChoksi/lichess-bot). It extends its features with a matchmaking mode where the bot automatically challenges other bots with similar ratings.
  The main idea taken from [Torom bot Li](https://github.com/Torom/BotLi) and has been made with the help of my friend.
+ 
+ This process have been not working now in heroku
+ and engine is not updated 
+ I will make new repo and public that will be better
 
 # Maintenerce 
 [Soloboy4](https://lichess.org/@/Soloboy4) and [Endogenetic Bot](https://lichess.org/@/Endogenetic-Bot)
